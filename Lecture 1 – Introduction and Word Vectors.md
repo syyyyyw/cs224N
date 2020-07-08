@@ -10,3 +10,7 @@
 word2vec模型训练有两种形式，分别为SG,CBOW。    
 SG全称为skip-grams,由中心词center去预测两侧的词  
 CBOW全称为Continuous bags of words,与SG相反  
+### notes
+svd 奇异值分解
+word-ducument matrix->Window based Co-occurrence Matrix  
+|v|\*m->|v|\*|v|  

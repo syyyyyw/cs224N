@@ -14,3 +14,4 @@ CBOW全称为Continuous bags of words,与SG相反
 svd 奇异值分解
 word-ducument matrix->Window based Co-occurrence Matrix  
 |v|\*m->|v|\*|v|  
+将负统计设为0代替原始统计？

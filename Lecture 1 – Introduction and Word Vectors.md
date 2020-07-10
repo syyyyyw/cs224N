@@ -16,5 +16,6 @@ word-ducument matrix->Window based Co-occurrence Matrix
 |v|\*m->|v|\*|v|  
 word2vec  
 two methods: negative sampling and hierarchical softmax. 
-CBOW具体求导怎么做的
-朴素贝叶斯假设？
+CBOW具体求导怎么做的  
+朴素贝叶斯假设？  
+负采样  
